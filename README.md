@@ -5,7 +5,7 @@ Torrent trackers are nothing but a crucial feature that helps in speeding up you
 
 They essentially do the process of increasing the download speed for you. The process is as simple as that and boosts up your download process.
 
-How to Add Trackers?
+<b>How to Add Trackers?<b/>
 Watch this Video: https://youtu.be/hXIba3siJys
 
 Torrent Trackers List Updated on August 2019
